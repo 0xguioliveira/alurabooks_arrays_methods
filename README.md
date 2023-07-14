@@ -5,7 +5,7 @@ Utilizando os principais métodos de array do JavaScript nas respostas retornada
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://0xguioliveira.github.io/mochila-de-viagem/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://0xguioliveira.github.io/alurabooks_arrays_methods/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
